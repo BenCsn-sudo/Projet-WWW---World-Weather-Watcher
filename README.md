@@ -139,14 +139,6 @@ Le système dispose de **4 modes préprogrammés** accessibles via les **boutons
 
 ---
 
-## 👨‍💻 Auteurs
-
-Projet développé par **[Ton nom]** dans le cadre du module *A2 – Systèmes Embarqués (CESI)*.
-Encadré par **[Nom du tuteur/enseignant]**.
-Année : **2025**
-
----
-
 ## 📜 Licence
 
 Ce projet est distribué sous licence **MIT**.
