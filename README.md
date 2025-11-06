@@ -1,4 +1,5 @@
 # 🌍 Worldwide Weather Watcher – Station Météo Embarquée
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Projet développé dans le cadre du programme **AIVM (Agence Internationale pour la Vigilance Météorologique)**.
 Objectif : déployer sur des navires de surveillance des **stations météo autonomes** capables de mesurer les paramètres influençant la formation des cyclones et autres phénomènes météorologiques extrêmes.
